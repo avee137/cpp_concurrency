@@ -1,0 +1,4 @@
+1. join wits on the spawned thread to be completed.
+2. if detaching threads make sure to copy any data that is 
+   passed to it in a local variable.
+
